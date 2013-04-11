@@ -1,8 +1,8 @@
-  Hu-Moment-and-Zernice-Moment
----
+  **Hu-Moment-and-Zernice-Moment**
 
-  Seda DOĞAN - K. Canan DEMİREL - Merve BAŞTÜRK
----
+
+  **Seda DOĞAN - K. Canan DEMİREL - Merve BAŞTÜRK**
+
 Makalenin orijinal haline <a href="https://docs.google.com/a/bil.omu.edu.tr/file/d/0B-m4B9H1C_PDOUp0Y0ZlN2k2MEU/edit">buradan</a>, tamamının çevrilmiş haline ise <a href="https://docs.google.com/a/bil.omu.edu.tr/document/d/1Nuufm9ak1uvf2Lg0Ueh16fO8SGoZLNaR4sC1I3kVxs4/edit">buradan</a> ulaşabilirsiniz.
 
 Bitki tanımlamada bazı zorluklar bulunmaktadır. Çeşitli yöntem ve özellik önerileri olmuştur. Zernice moment kullanarak yeşil bitki tanıma sistemi kurulmuştur. Bu durumda Zernice moment geometrik özellikleri, renk momentleri, gri- düzey eş-oluşum matrisi (GLCM) gibi özellikleri ile kombine edilerek kullanılmaya başlanmıştır. Bu tanıma sistemi için iki yaklaşım incelenmiştir: İlk yaklaşımda uzaklık ölçüsü kullanılmıştır, ikinci yaklaşımda ise Olasılık Sinir Ağları (PNN) kullanılmıştır. Elde edilen sonuçlarda ise Zernice momentin diğer özellikler ile kombine edildiği zaman yaprak tanıma sisteminin olabileceği ihtimali görülmüştür. 
